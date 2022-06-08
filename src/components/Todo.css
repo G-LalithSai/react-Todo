@@ -1,0 +1,36 @@
+.todo {
+  width: 400px;
+  margin: 50px auto;
+  padding: 10px;
+}
+
+.input-box,
+.input-submit {
+  text-align: center;
+  padding: 10px 15px;
+  margin: 5px;
+  border-radius: 10px;
+  border: none;
+}
+
+.input-box {
+  width: 300px;
+}
+
+.input-section {
+  margin-top: 30px;
+}
+
+.task-list {
+  list-style: none;
+}
+
+.task-item {
+  width: 320px;
+  margin: 10px auto;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 10px;
+  background-color: #fff;
+  padding: 10px 30px;
+}
